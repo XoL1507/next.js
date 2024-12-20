@@ -1,1 +1,1 @@
-package/read.me
+readme.md
